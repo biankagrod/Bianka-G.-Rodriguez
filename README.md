@@ -1,2 +1,5 @@
 # Bianka_G_Rodriguez
-Splunk Fundamentals 1
+
+## Splunktern Portfolio
+
+### A compilation of certificates and other achievements throughout Bianka Rodriguez's CNOC Splunkternship
